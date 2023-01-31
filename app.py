@@ -17,7 +17,7 @@ def prediction(sepal_length, sepal_width, petal_length, petal_width):
 
 def main():
     st.title("Aplikasi Prediksi Bunga Iris Algoritma Support Vector Machine")
-    st.markdown('')
+    st.markdown('UAS DATA WAREHOUSE DAN DATAMINING')
     st.write('\n')
     st.markdown('Silakan isi form berikut :')
     

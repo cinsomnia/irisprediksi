@@ -17,7 +17,7 @@ def prediction(sepal_length, sepal_width, petal_length, petal_width):
 
 def main():
     st.title("Aplikasi Prediksi Bunga Iris Algoritma Support Vector Machine")
-    st.markdown('Oleh : Agung Gunawan (2019230012) | Universitas Darma Persada | UAS Datamining')
+    st.markdown('[ Agung Gunawan (2019230012) - Universitas Darma Persada - UAS Datamining Malam ]')
     st.write('\n')
     st.markdown('Silakan isi form berikut terlebih dahulu :')
     
